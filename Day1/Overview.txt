@@ -1,0 +1,7 @@
+Band Name Generator Program
+
+- Printing
+- Commenting
+- String Manipulation
+- Variables
+Easy
