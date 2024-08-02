@@ -1,0 +1,7 @@
+Data types
+Numbers
+Operations
+Type Conversion
+F-Strings
+
+End Goal to build a Tip Calculator
