@@ -1,0 +1,7 @@
+Randomisation and Python Lists
+
+Randomisation
+- Makes things different each time
+- Using the random module
+
+Making a rock, paper, scissors game
