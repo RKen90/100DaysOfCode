@@ -21,3 +21,11 @@ elif number == 4:
     print(friends[3])
 else:
     print(friends[4])
+    
+# Option 2    
+print(random.choice(friends))
+
+
+# Option 3
+random_index = random.randint(0, 4)
+print(friends[random_index])
