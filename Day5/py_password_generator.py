@@ -31,9 +31,15 @@ for num in range(1, nr_numbers + 1):
 
 # random.shuffle shuffling the list
 random.shuffle(password)
-print(password)
+print(f'The password list is {password}')
 
 
+new_pass = ""
+for i in password:
+    new_pass += i
+    print(new_pass)
+print(f'Your password is {new_pass}')
+    
 
 '''
 legging (gry/planes/black)
