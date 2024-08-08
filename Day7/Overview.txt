@@ -1,0 +1,6 @@
+Hangman Project
+- For and While Loops
+- Lists
+- Strings
+- Range Function
+- Modules
