@@ -19,5 +19,5 @@ def greetings(name):
     print(f"Isn't the weather nice {name}")
     
 greetings("Brobert")
-print("")
+
 greetings("Mirna")
